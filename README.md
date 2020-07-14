@@ -1,7 +1,7 @@
-##Title
+## Title
 React-Quiz
 
-##Description
+## Description
 This project is created with the purpose of learning the basics of React with Typescript and based on the "React / Typescript Tutorial - Build a Quiz App" tutorial provided by [freeCodeCamp.org](https://www.freecodecamp.org/).
 
 
