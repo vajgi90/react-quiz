@@ -1,3 +1,10 @@
+##Title
+React-Quiz
+
+##Description
+This project is created with the purpose of learning the basics of React with Typescript and based on the "React / Typescript Tutorial - Build a Quiz App" tutorial provided by [freeCodeCamp.org](https://www.freecodecamp.org/).
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -42,3 +49,5 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+To find the author of this course [Link](https://www.youtube.com/watch?v=F2JCjVSZlG0).
