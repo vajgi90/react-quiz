@@ -51,3 +51,5 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 To find the author of this course [Link](https://www.youtube.com/watch?v=F2JCjVSZlG0).
+
+A great api to build quiz apps with a lot of questions [Link](https://opentdb.com/api_config.php).
